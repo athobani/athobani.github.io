@@ -1,0 +1,8 @@
+name: "mySimple website"
+navbar:
+  title: "My Simple Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Case Study 2"
+      href: Case-Study-1.html
